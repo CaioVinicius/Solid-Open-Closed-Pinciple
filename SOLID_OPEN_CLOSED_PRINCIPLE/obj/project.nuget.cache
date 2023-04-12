@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "N7SqvGdqCXRVvvyC0Cdrt5iP3zeROzUrn8i/jnmzZZOCTqSgbMZ9YLzMllGCJaVmNeoy6ZmgFXqiZgDxSLn9aQ==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\SOLID_OPEN_CLOSED_PRINCIPLE\\SOLID_OPEN_CLOSED_PRINCIPLE\\SOLID_OPEN_CLOSED_PRINCIPLE.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.101.231.236:20000/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
